@@ -1,0 +1,95 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "631bb187ddc48b7f8c124a4207488e96f06ef6f2"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "TicketMasterApp/1.0.0": {
+        "dependencies": {
+          "Gogokit": "1.1.0"
+        },
+        "runtime": {
+          "TicketMasterApp.dll": {}
+        }
+      },
+      "Gogokit/1.1.0": {
+        "dependencies": {
+          "HalKit": "1.0.0",
+          "Newtonsoft.Json": "11.0.2",
+          "Tavis.UriTemplates": "1.1.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Gogokit.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      },
+      "HalKit/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2",
+          "Tavis.UriTemplates": "1.1.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/HalKit.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
+        }
+      },
+      "Tavis.UriTemplates/1.1.1": {
+        "runtime": {
+          "lib/netstandard1.0/Tavis.UriTemplates.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TicketMasterApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Gogokit/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Gm3VWQddYhTw8VUc+cJk2WXX1/Rbw1Et1ym6Oq9gs/HHUuy6z37HbuQCborKEQK3DY40oL7S5G/jNCxH805Qyw==",
+      "path": "gogokit/1.1.0",
+      "hashPath": "gogokit.1.1.0.nupkg.sha512"
+    },
+    "HalKit/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fL8ClCCzsGwVEJL01ujiZhNtyKahE/IfS3NX1XrEpT4axG/MN8xb/o5DQSFWora5FdPCzntKyzCqHDIroS5dhw==",
+      "path": "halkit/1.0.0",
+      "hashPath": "halkit.1.0.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "Tavis.UriTemplates/1.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-n8tQ8tV3Jt9rDSlRVnhlIGMD+tS0EFrkW5GoveINiThcVx//sWd4nXibI2F787MCEwIjL+rim8NwiPipfftpTA==",
+      "path": "tavis.uritemplates/1.1.1",
+      "hashPath": "tavis.uritemplates.1.1.1.nupkg.sha512"
+    }
+  }
+}

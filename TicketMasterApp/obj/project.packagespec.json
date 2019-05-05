@@ -1,0 +1,47 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\sshchory\\RiderProjects\\TicketMaster\\TicketMasterApp\\TicketMasterApp.csproj",
+    "projectName": "TicketMasterApp",
+    "projectPath": "C:\\Users\\sshchory\\RiderProjects\\TicketMaster\\TicketMasterApp\\TicketMasterApp.csproj",
+    "outputPath": "C:\\Users\\sshchory\\RiderProjects\\TicketMaster\\TicketMasterApp\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Gogokit": {
+          "target": "Package",
+          "version": "[1.1.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

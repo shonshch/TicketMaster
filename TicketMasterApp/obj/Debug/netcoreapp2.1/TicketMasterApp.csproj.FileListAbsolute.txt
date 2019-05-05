@@ -1,0 +1,11 @@
+C:\Users\sshchory\RiderProjects\TicketMaster\TicketMasterApp\bin\Debug\netcoreapp2.1\TicketMasterApp.deps.json
+C:\Users\sshchory\RiderProjects\TicketMaster\TicketMasterApp\bin\Debug\netcoreapp2.1\TicketMasterApp.runtimeconfig.json
+C:\Users\sshchory\RiderProjects\TicketMaster\TicketMasterApp\bin\Debug\netcoreapp2.1\TicketMasterApp.runtimeconfig.dev.json
+C:\Users\sshchory\RiderProjects\TicketMaster\TicketMasterApp\bin\Debug\netcoreapp2.1\TicketMasterApp.dll
+C:\Users\sshchory\RiderProjects\TicketMaster\TicketMasterApp\bin\Debug\netcoreapp2.1\TicketMasterApp.pdb
+C:\Users\sshchory\RiderProjects\TicketMaster\TicketMasterApp\obj\Debug\netcoreapp2.1\TicketMasterApp.csprojAssemblyReference.cache
+C:\Users\sshchory\RiderProjects\TicketMaster\TicketMasterApp\obj\Debug\netcoreapp2.1\TicketMasterApp.csproj.CoreCompileInputs.cache
+C:\Users\sshchory\RiderProjects\TicketMaster\TicketMasterApp\obj\Debug\netcoreapp2.1\TicketMasterApp.AssemblyInfoInputs.cache
+C:\Users\sshchory\RiderProjects\TicketMaster\TicketMasterApp\obj\Debug\netcoreapp2.1\TicketMasterApp.AssemblyInfo.cs
+C:\Users\sshchory\RiderProjects\TicketMaster\TicketMasterApp\obj\Debug\netcoreapp2.1\TicketMasterApp.dll
+C:\Users\sshchory\RiderProjects\TicketMaster\TicketMasterApp\obj\Debug\netcoreapp2.1\TicketMasterApp.pdb
