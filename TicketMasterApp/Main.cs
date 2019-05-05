@@ -1,4 +1,6 @@
+using System;
 using System.Runtime.CompilerServices;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace TicketMasterApp
@@ -7,9 +9,14 @@ namespace TicketMasterApp
     {
         static void Main(string[] args)
         {
-            var events = new EvenGenrator();
-            TaskAwaiter result = events.ReturnChapestTicket().GetAwaiter();
-            result.GetResult();
+            while (true)
+            {
+                var events = new EvenGenrator();
+                TaskAwaiter result = events.ReturnChapestTicket().GetAwaiter();
+                result.GetResult();
+                Thread.Sleep(TimeSpan.FromMinutes(30));
+            }
+
         }
     }
 }

@@ -17,6 +17,7 @@
           </e>
         </e>
         <e p="Program.cs" t="Include" />
+        <e p="Skype.cs" t="Include" />
         <e p="TicketMasterApp.csproj" t="IncludeRecursive" />
       </e>
     </e>

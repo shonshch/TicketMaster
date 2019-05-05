@@ -37,6 +37,7 @@ namespace TicketMasterApp
             var currentEvents = RelevantEventsInfo(allEvents, new DateTime(2019, 7, 25),
                 new DateTime(2019, 7, 29), 700);
             System.Console.WriteLine(currentEvents[0].LocalWebPageLink.HRef);
+             
         }
 
         private List<Event> RelevantEventsInfo(IReadOnlyList<Event> events, DateTime minDate, DateTime maxDate,
@@ -58,7 +59,6 @@ namespace TicketMasterApp
                     continue;
                 }
 
-                // Create Hashtable in eventsInfo list
                 eventsInfo.Add(Event);
 
             }

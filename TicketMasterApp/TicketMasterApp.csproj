@@ -9,4 +9,13 @@
       <PackageReference Include="Gogokit" Version="1.1.0" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Reference Include="Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed">
+        <HintPath>..\..\..\Desktop\Skype4Sharp-master\Builds\Newtonsoft.Json.dll</HintPath>
+      </Reference>
+      <Reference Include="Skype4Sharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <HintPath>..\..\..\Desktop\Skype4Sharp-master\Builds\Skype4Sharp.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
 </Project>
